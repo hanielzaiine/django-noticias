@@ -1,2 +1,2 @@
 # django-noticias
-Desenvolvimento do módulo "Documento institucional do sistema "Skyblue" em django.
+Desenvolvimento do módulo "Documento institucional" em django.
